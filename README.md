@@ -1,5 +1,9 @@
 # vuejs-product-app
+## What you will learn:
 
+### Creating and managing products.
+### Interacting with a database — creating, reading, editing, and deleting products.
+### Input validation and how to work with forms.
 > A Vue.js simple product app with firestore
 
 ## Build Setup
